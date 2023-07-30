@@ -5,7 +5,7 @@ dataSet[dataSetVersion].options = [
   {
     name: "Filter by branch",
     key: "branch",
-    tooltip: "Check this to restrict to members from certain branches.",
+    tooltip: "Centang ini untuk mengecualikan member dari cabang tersebut.",
     checked: false,
     sub: [
       { name: "hololive", key: "jp" },
@@ -18,21 +18,21 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Exclude holostars",
+    name: "Kecualikan holostars",
     key: "boy",
-    tooltip: "Check this to exclude holostars.",
+    tooltip: "Centang untuk mengecualikan holostars.",
     checked: false
   },
   {
-    name: "Exclude hololive",
+    name: "Kecualikan hololive",
     key: "girl",
-    tooltip: "Check this to exclude hololive.",
+    tooltip: "Centang untuk mengecualikan hololive.",
     checked: false
   },
   {
-    name: "Exclude retired members",
+    name: "Kecualikan mantan anggota",
     key: "retired",
-    tooltip: "Check this to excluded graduated/retired/terminated members.",
+    tooltip: "Centang ini untuk mengecualikan anggota yang lulus/diberhentikan.",
     checked: true
   }
 ];
