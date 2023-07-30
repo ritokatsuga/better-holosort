@@ -662,7 +662,8 @@ dataSet[dataSetVersion].characterData = [
     img: "kira.jpeg",
     opts: {
       branch: ["st"],
-      boy: true
+      boy: true,
+      retired: true
     }
   },
   {
@@ -670,7 +671,8 @@ dataSet[dataSetVersion].characterData = [
     img: "suzaku.jpeg",
     opts: {
       branch: ["st"],
-      boy: true
+      boy: true,
+      retired: true
     }
   },
   {
