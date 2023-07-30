@@ -48,7 +48,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Robocosan",
-    img: "robo.webp",
+    img: "roboco.webp",
     opts: {
       branch: ["jp"],
       girl: true
@@ -688,7 +688,7 @@ dataSet[dataSetVersion].characterData = [
     img: "temma.webp",
     opts: {
       branch: ["st"],
-      girl: true
+      boy: true
     }
   },
   {
@@ -782,7 +782,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Noir Vesper",
-    img: "noir.webp",
+    img: "vesper.webp",
     opts: {
       branch: ["sten"],
       boy: true
