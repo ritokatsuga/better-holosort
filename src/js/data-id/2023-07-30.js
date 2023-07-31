@@ -541,7 +541,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Koseki Bijou",
-    img: "koseki.webp",
+    img: "bijou.webp",
     opts: {
       branch: ["en"],
       girl: true
