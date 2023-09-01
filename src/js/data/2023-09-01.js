@@ -1,11 +1,11 @@
-dataSetVersion = "2023-07-30"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2023-09-01"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
     name: "Filter by branch",
     key: "branch",
-    tooltip: "Centang ini untuk mengecualikan member dari cabang tersebut.",
+    tooltip: "Check this to restrict to members from certain branches.",
     checked: false,
     sub: [
       { name: "hololive", key: "jp" },
@@ -18,21 +18,21 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Kecualikan holostars",
+    name: "Exclude holostars",
     key: "boy",
-    tooltip: "Centang untuk mengecualikan holostars.",
+    tooltip: "Check this to exclude holostars.",
     checked: false
   },
   {
-    name: "Kecualikan hololive",
+    name: "Exclude hololive",
     key: "girl",
-    tooltip: "Centang untuk mengecualikan hololive.",
+    tooltip: "Check this to exclude hololive.",
     checked: false
   },
   {
-    name: "Kecualikan mantan anggota",
+    name: "Exclude retired members",
     key: "retired",
-    tooltip: "Centang ini untuk mengecualikan anggota yang lulus/diberhentikan.",
+    tooltip: "Check this to excluded graduated/retired/terminated members.",
     checked: true
   }
 ];
@@ -769,7 +769,8 @@ dataSet[dataSetVersion].characterData = [
     img: "magni.webp",
     opts: {
       branch: ["sten"],
-      boy: true
+      boy: true,
+      retired: true
     }
   },
   {
@@ -785,7 +786,8 @@ dataSet[dataSetVersion].characterData = [
     img: "vesper.webp",
     opts: {
       branch: ["sten"],
-      boy: true
+      boy: true,
+      retired: true
     }
   },
   {

@@ -4,7 +4,7 @@ A better Hololive member sorter with more features and filters that based on [ex
 Visit [better-holosort.pages.dev](https://better-holosort.pages.dev/)
 
 Latest changelog:
-30 July 2023 - Forked and started the project.
+1 September 2023 - Noir Vesper and Magni Dezmond graduation.
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk member Hololive dengan fitur dan filter ya
 Kunjungi [better-holosort.pages.dev](https://better-holosort.pages.dev/)
 
 Perubahan terakhir:<br>
-30 Juli 2023 - Membuat fork dan memulai proyek.
+1 September 2023 - Kelulusan Noir Vesper dan Magni Dezmond.
 
 Menerima kontributor.
 

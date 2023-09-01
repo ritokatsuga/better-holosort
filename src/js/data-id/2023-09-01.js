@@ -1,4 +1,4 @@
-dataSetVersion = "2023-07-30"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2023-09-01"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -769,7 +769,8 @@ dataSet[dataSetVersion].characterData = [
     img: "magni.webp",
     opts: {
       branch: ["sten"],
-      boy: true
+      boy: true,
+      retired: true
     }
   },
   {
@@ -785,7 +786,8 @@ dataSet[dataSetVersion].characterData = [
     img: "vesper.webp",
     opts: {
       branch: ["sten"],
-      boy: true
+      boy: true,
+      retired: true
     }
   },
   {
