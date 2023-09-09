@@ -3,7 +3,7 @@ A better Hololive member sorter with more features and filters that based on [ex
 
 Visit [better-holosort.pages.dev](https://better-holosort.pages.dev/)
 
-Latest changelog:
+Latest changelog:<br>
 9 September 2023 - ReGLOSS debut.
 
 Contributors are open
