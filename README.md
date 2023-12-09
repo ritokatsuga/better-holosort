@@ -1,10 +1,10 @@
 # Better-Holosort
 A better Hololive member sorter with more features and filters that based on [execfera's Touhou Project character sorter](https://tohosort.frelia.my/) source code and [damecon's version of Hololive character sorter](https://damecon.github.io/HoloSort/).
 
-Visit [better-holosort.pages.dev](https://better-holosort.pages.dev/)
+Visit [hololive.sorter.my.id](https://hololive.sorter.my.id/)
 
 Latest changelog:<br>
-9 September 2023 - ReGLOSS debut.
+9 December 2023 - ARMIS debut, new site, fixing filters
 
 Contributors are open
 
@@ -14,10 +14,10 @@ Supports me via [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) or [P
 
 Sebuah penyortir termutakhirkan untuk member Hololive dengan fitur dan filter yang lebih banyak yang berdasarkan pada kode sumber [penyortir karakter Touhou Project milik execfera](https://tohosort.frelia.my/) dan [penyortir member Hololive versi damecon](https://damecon.github.io/nijisort).
 
-Kunjungi [better-holosort.pages.dev](https://better-holosort.pages.dev/)
+Kunjungi [hololive.sorter.my.id](https://hololive.sorter.my.id/id)
 
 Perubahan terakhir:<br>
-9 September 2023 - Debut ReGLOSS.
+9 Desember 2023 - Debut ARMIS, situs baru, memperbaiki filter
 
 Menerima kontributor.
 
