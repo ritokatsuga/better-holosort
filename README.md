@@ -4,7 +4,7 @@ A better Hololive member sorter with more features and filters that based on [ex
 Visit [hololive.sorter.my.id](https://hololive.sorter.my.id/)
 
 Latest changelog:<br>
-9 December 2023 - ARMIS debut, new site, fixing filters
+19 January 2024 - Yozora Mel termination
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk member Hololive dengan fitur dan filter ya
 Kunjungi [hololive.sorter.my.id](https://hololive.sorter.my.id/id)
 
 Perubahan terakhir:<br>
-9 Desember 2023 - Debut ARMIS, situs baru, memperbaiki filter
+19 Januari 2023 - Pemberhentian Yozora Mel
 
 Menerima kontributor.
 
