@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk member Hololive dengan fitur dan filter ya
 Kunjungi [hololive.sorter.my.id](https://hololive.sorter.my.id/id)
 
 Perubahan terakhir:<br>
-19 Januari 2023 - Pemberhentian Yozora Mel
+19 Januari 2024 - Pemberhentian Yozora Mel
 
 Menerima kontributor.
 
