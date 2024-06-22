@@ -1,39 +1,39 @@
-dataSetVersion = "2024-01-19"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2024-06-22"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
     name: "Filter by branch",
     key: "branch",
-    tooltip: "Centang ini untuk mengecualikan member dari cabang tersebut.",
+    tooltip: "Check this to restrict to members from certain branches.",
     checked: false,
     sub: [
       { name: "hololive", key: "jp" },
       { name: "hololive Staff", key: "staff" },
       { name: "hololive China", key: "cn" },
       { name: "hololive Indonesia", key: "id" },
-      { name: "hololive English", key: "en" },      
+      { name: "hololive English", key: "en" },
       { name: "hololive DEV_IS", key: "devis" },
       { name: "HOLOSTARS", key: "st" },
       { name: "HOLOSTARS English", key: "sten" },
     ]
   },
   {
-    name: "Kecualikan HOLOSTARS",
+    name: "Exclude HOLOSTARS",
     key: "boy",
-    tooltip: "Centang untuk mengecualikan anggota HOLOSTARS.",
+    tooltip: "Check this to exclude HOLOSTARS members.",
     checked: false
   },
   {
-    name: "Kecualikan hololive",
+    name: "Exclude hololive",
     key: "girl",
-    tooltip: "Centang untuk mengecualikan anggota hololive.",
+    tooltip: "Check this to exclude hololive members.",
     checked: false
   },
   {
-    name: "Kecualikan mantan anggota",
+    name: "Exclude retired members",
     key: "retired",
-    tooltip: "Centang ini untuk mengecualikan anggota yang lulus/diberhentikan.",
+    tooltip: "Check this to excluded graduated/retired/terminated members.",
     checked: true
   }
 ];
@@ -895,5 +895,37 @@ dataSet[dataSetVersion].characterData = [
       branch: ["sten"],
       boy: true
     }
-  }
+  },
+  {
+    name: "Elizabeth Rose Bloodflame",
+    img: "elizabeth.png",
+    opts: {
+      branch: ["en"],
+      girl: true
+    }
+  },
+  {
+    name: "Gigi Murin",
+    img: "gigi.png",
+    opts: {
+      branch: ["en"],
+      girl: true
+    }
+  },
+  {
+    name: "Cecilia Immergreen",
+    img: "cecilia.png",
+    opts: {
+      branch: ["en"],
+      girl: true
+    }
+  },
+  {
+    name: "Raora Penthera",
+    img: "raora.png",
+    opts: {
+      branch: ["en"],
+      girl: true
+    }
+  },
 ]
